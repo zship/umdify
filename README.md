@@ -2,9 +2,10 @@ umdify
 ======
 
 umdify is a small JavaScript library for converting modules authored in AMD
-format to UMD format. It's useful for distributing libraries with wide
-compatibility in mind. Output UMD is compatible with AMD loaders, CommonJS
-loaders (like node.js), and (optionally) browser globals.
+format to [UMD format](https://github.com/umdjs/umd). It's useful for
+distributing libraries with wide compatibility in mind. Output UMD is
+compatible with AMD loaders, CommonJS loaders (like node.js), and (optionally)
+browser globals.
 
 Inspired by and shares the same "modify as little as possible" philosophy with
 [nodefy](https://github.com/millermedeiros/nodefy).
@@ -23,7 +24,7 @@ npm install umdify
 Usage
 -----
 
-### *String* umdify( *String* contents, [*String* moduleName] )
+### *String* umdify( *String* contents, *String* [moduleName] )
 
 Converts `contents` (a valid AMD JavaScript module) to UMD format. `moduleName`
 is only required if you want to support browser globals, and will be the name
