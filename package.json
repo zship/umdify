@@ -1,0 +1,20 @@
+{
+	"name": "umdify",
+	"description": "AMD to UMD converter",
+	"version": "0.1.0",
+	"homepage": "https://github.com/zship/umdify",
+	"author": "Zach Shipley <zach@zachshipley.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zship/umdify.git"
+	},
+	"license": "MIT",
+	"main": "umdify.js",
+	"dependencies": {
+		"esprima": "1.x"
+	},
+	"keywords": [
+		"amd",
+		"umd"
+	]
+}
