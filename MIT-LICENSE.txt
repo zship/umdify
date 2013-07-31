@@ -1,7 +1,10 @@
 The MIT License (MIT)
 
-Copyright 2013 Zach Shipley
 https://github.com/zship/umdify
+Copyright 2013 Zach Shipley
+
+Based on https://github.com/millermedeiros/nodefy/
+Copyright 2013 Miller Medeiros
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

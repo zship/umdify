@@ -7,7 +7,7 @@ distributing libraries with wide compatibility in mind. Output UMD is
 compatible with AMD loaders, CommonJS loaders (like node.js), and (optionally)
 browser globals.
 
-Inspired by and shares the same "modify as little as possible" philosophy with
+Based on and shares the same "modify as little as possible" philosophy with
 [nodefy](https://github.com/millermedeiros/nodefy).
 
 
